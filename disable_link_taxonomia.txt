@@ -1,0 +1,1 @@
+<?php echo strip_tags (get_the_term_list( get_the_ID(), 'taxonomia_name', " ",", " )); ?>
